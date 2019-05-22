@@ -1,0 +1,5 @@
+# ignore these
+*~
+*.dat
+*.png
+*.txt
